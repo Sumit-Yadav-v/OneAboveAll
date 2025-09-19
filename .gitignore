@@ -1,0 +1,31 @@
+# ================= Python =================
+__pycache__/
+*.pyc
+*.pyo
+
+# ================= Virtual Environments =================
+venv/
+.env
+
+# ================= Logs & Data =================
+*.log
+*.db
+*.data
+*.cookie
+ChatLog.json
+speech.mp3
+voice.html
+
+# ================= App-specific =================
+# PyWhatKit database
+PyWhatKit_DB.txt
+
+# Google cookies
+.google-cookie
+
+# ================= OS / IDE Files =================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
